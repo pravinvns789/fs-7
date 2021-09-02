@@ -32,10 +32,10 @@
     justify-content: center;
   }
   .oval {
-    width: 300px;
+    width: 200px;
     border-radius: 50%;
-    height: 300px;
-    background-color: rgb(162, 196, 11);
+    height: 200px;
+    background-color: rgb(196, 131, 11);
     margin: 30px;
   }
   .adjust {
@@ -73,7 +73,7 @@
   }
   .footer {
     width: 100%;
-    background-color: rgb(54, 3, 77);
+    background-color: rgb(192, 31, 184);
     text-align: center;
     height: 125px;
     padding: 0.25px;
